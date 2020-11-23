@@ -1,0 +1,16 @@
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\OneAway.exe
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\OneAway.deps.json
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\OneAway.runtimeconfig.json
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\OneAway.runtimeconfig.dev.json
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\OneAway.dll
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\ref\OneAway.dll
+E:\Proyectos\Algoritmos Propios\OneAway\bin\Debug\net5.0\OneAway.pdb
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.csprojAssemblyReference.cache
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.AssemblyInfoInputs.cache
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.AssemblyInfo.cs
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.csproj.CoreCompileInputs.cache
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.dll
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\ref\OneAway.dll
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.pdb
+E:\Proyectos\Algoritmos Propios\OneAway\obj\Debug\net5.0\OneAway.genruntimeconfig.cache
